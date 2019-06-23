@@ -14,5 +14,5 @@ A few resources used in this project project:
 - [Flutter Gherkin: Gherkin + Runner for Flutter](https://pub.dev/packages/flutter_gherkin#-readme-tab-)
 
 For help getting started with Flutter driver, view our 
-[YouTube videos](https://www.youtube.com/executeautomation), which offers free tutorials, 
+[ExecuteAutomation YouTube videos](https://www.youtube.com/executeautomation), which offers free tutorials, 
 samples, guidance on flutter driver along with BDD style coding practice.
