@@ -16,3 +16,7 @@ A few resources used in this project project:
 For help getting started with Flutter driver, view our 
 [ExecuteAutomation YouTube videos](https://www.youtube.com/executeautomation), which offers free tutorials, 
 samples, guidance on flutter driver along with BDD style coding practice.
+
+For complete playlist of videos, visit the below link
+[Flutter Driver] (https://www.youtube.com/playlist?list=PL6tu16kXT9PrzZbUTUscEYOHHTVEKPLha)
+
